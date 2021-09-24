@@ -31,13 +31,12 @@ Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse su
 * API entre Spring Boot et Angular
 * Lancer le projet Angular que vous avez telechager en tappant la ligne de commande ng serve 
 * Si la commande ng n’est pas reconnu sur le terminal, ouvrez PowerShell en tant qu'administrateur et taper Set-ExecutionPolicy ExecutionPolicy Unrestricted.
-* Création d'un cmposant => ng g c HelloComponent
+* Création d'un composant => ng g c HelloComponent
 * Création d'un service => ng g s HelloService
 * Création d'une classe => ng g class Hello
 * Créer un projet Spring Boot , soit en utilisant l’application Spring boot suite ou bien vs code en téléchargeant Spring boot tools.
 * Lancer le projet Spring Boot avec le bouton run sous vs code 
 * Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API
-
 
 ## Fabriqué avec
 
