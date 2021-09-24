@@ -14,8 +14,8 @@ Afin de bien compiler et executer notre projet, il est nécessaire d'installer u
 - Installation d'un IDE (VScode ou IntelliJ)
 -Installation des extentions Java sur l'IDE
 - Installation de l'extention de SpringBoot sur L'IDE ( visual sudio code ou intelliJ)
-- Installation de Angular
-- 
+- Installation de Nodejs
+- Installation de Angular en utilisant la ligne de commande nodejs 
 ### Installation
 
 Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse suivante:
@@ -29,16 +29,15 @@ Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse su
 
 ## Démarrage
 * API entre Spring Boot et Angular
-* Lancer le projet Angular que vous avez telechager en tapant la ligne de commande ng servesur le terminal
-* Si ng n’est pas reconnu sur le terminal, ouvrez PowerShell en tant qu'administrateur
-* Ensuite taper Set-ExecutionPolicy 
-*  Puis ExecutionPolicy Unrestricted.
-* Pour le Composant => ng g c HelloComponent
-* Service => ng g s HelloService
-* Classe => ng g class Hello
-* Créer un projet Spring Boot, soit en utilisant l’application Spring boot suite ou bien vs code en téléchargeant Spring boot tools.
-* Ecrire un affichage hello word 
-* Spécifier la route
+* Lancer le projet Angular que vous avez telechager en tappant la ligne de commande ng serve 
+* Si la commande ng n’est pas reconnu sur le terminal, ouvrez PowerShell en tant qu'administrateur et taper Set-ExecutionPolicy ExecutionPolicy Unrestricted.
+* Création d'un cmposant => ng g c HelloComponent
+* Création d'un service => ng g s HelloService
+* Création d'une classe => ng g class Hello
+* Créer un projet Spring Boot , soit en utilisant l’application Spring boot suite ou bien vs code en téléchargeant Spring boot tools.
+* Lancer le projet Spring Boot avec le bouton run sous vs code 
+* Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API
+
 
 ## Fabriqué avec
 
