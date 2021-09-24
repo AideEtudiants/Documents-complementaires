@@ -28,16 +28,16 @@ Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse su
  - de ce fait vous avez deux fenêtres ouvertes dans votre IDE contenant respectivement le front et le back
 
 ## Démarrage
-API entre Spring Boot et Angular
- Lancer le projet Angular que vous avez telechager en tappant la ligne de commande ng serve 
--Si ng n’est pas reconnu sur le terminal, ouvrez PowerShell en tant qu'administrateur ; et taper Set-ExecutionPolicy 
--ExecutionPolicy Unrestricted.
--Composant => ng g c HelloComponent
--Service => ng g s HelloService
--Classe => ng g class Hello
--Créer un projet Spring Boot, soit en utilisant l’application Spring boot suite ou bien vs code en téléchargeant Spring boot tools.
--Ecrire un affichage hello word 
--Spécifier la route
+* API entre Spring Boot et Angular
+* Lancer le projet Angular que vous avez telechager en tappant la ligne de commande ng serve 
+* Si ng n’est pas reconnu sur le terminal, ouvrez PowerShell en tant qu'administrateur ; et taper Set-ExecutionPolicy 
+* ExecutionPolicy Unrestricted.
+* Composant => ng g c HelloComponent
+* Service => ng g s HelloService
+* Classe => ng g class Hello
+* Créer un projet Spring Boot, soit en utilisant l’application Spring boot suite ou bien vs code en téléchargeant Spring boot tools.
+* Ecrire un affichage hello word 
+* Spécifier la route
 
 ## Fabriqué avec
 
@@ -45,7 +45,7 @@ API entre Spring Boot et Angular
 * Framework Angular
 * Éditeur VScode
 * Java
-*HTML, CSS 
+* HTML, CSS 
 
 ## Versions
 
