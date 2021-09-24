@@ -22,7 +22,7 @@ Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse su
 -  https://github.com/AideEtudiants 
 -  la documentation lié au projet se trouve dans le repo https://github.com/AideEtudiants/Documents-complementaires
 -  Vous y trouverez le Scrum board ainsi que l'architecture de l'application.
--  Le front end se trouve dans le repo et vous y trouverez tous les fichiers necessaires pour lancer le projet Angular
+-  Le front end se trouve dans le repo https://github.com/AideEtudiants/ProjetAngular et vous y trouverez tous les fichiers necessaires pour lancer le projet Angular
 -  Le back end se trouve dans le repo et contient  les fichiers necessaires pour lancer le projet springboot
  - il faut télécharger ensuite le projet nommé : nom du projet
  - Dans l'IDE, il faut ouvrir le dossier 'nom du projet '
