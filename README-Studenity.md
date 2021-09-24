@@ -15,18 +15,18 @@ Afin de bien compiler et executer notre projet, il est nécessaire d'installer u
 -Installation des extentions Java sur l'IDE
 - Installation de l'extention de SpringBoot sur L'IDE ( visual sudio code ou intelliJ)
 - Installation de Angular
-
-à modifier
+- 
 ### Installation
 
 Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse suivante:
-- ''lien du git"
- - il faut télécharger ensuiten le projet nommé : nom du projet
+-  https://github.com/AideEtudiants 
+-  la documentation lié au projet se trouve dans le repo https://github.com/AideEtudiants/Documents-complementaires
+-  Vous y trouverez le Scrum board ainsi que l'architecture de l'application.
+-  Le front end se trouve dans le repo et vous y trouverez tous les fichiers necessaires pour lancer le projet Angular
+-  Le back end se trouve dans le repo et contient  les fichiers necessaires pour lancer le projet springboot
+ - il faut télécharger ensuite le projet nommé : nom du projet
  - Dans l'IDE, il faut ouvrir le dossier 'nom du projet '
 
-Ensuite vous pouvez montrer ce que vous obtenez au final...
-
-à modifier
 ## Démarrage
 
 Dites comment faire pour lancer votre projet
