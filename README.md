@@ -18,7 +18,7 @@ Afin de bien compiler et executer notre projet, il est nécessaire d'installer u
 - Installation de Angular en utilisant la ligne de commande nodejs 
 ### Installation
 
-Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse suivante:
+Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux adresses suivantes:
 -  https://github.com/AideEtudiants 
 -  la documentation lié au projet se trouve dans le repo https://github.com/AideEtudiants/Documents-complementaires
 -  Vous y trouverez le Scrum board ainsi que l'architecture de l'application.
@@ -29,7 +29,7 @@ Pour installer notre projet, il faut le télécharger sur gitHub à l'adresse su
 
 ## Démarrage
 * API entre Spring Boot et Angular
-* Lancer le projet Angular que vous avez telechager en tappant la ligne de commande ng serve 
+* Lancer le projet Angular que vous avez clonner en tappant la ligne de commande ng serve 
 * Si la commande ng n’est pas reconnu sur le terminal, ouvrez PowerShell en tant qu'administrateur et taper Set-ExecutionPolicy ExecutionPolicy Unrestricted.
 * Création d'un composant => ng g c HelloComponent
 * Création d'un service => ng g s HelloService
