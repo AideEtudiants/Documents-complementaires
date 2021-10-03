@@ -29,14 +29,12 @@ Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux
 
 ## Démarrage
 * API entre Spring Boot et Angular
-* Lancer le projet Angular que vous avez clonner en tappant la ligne de commande ng serve 
+* Lorsque vous clonner le projet , Tappez un npm install afin d'installer les dépendances necessaires de Angular et par la suite npm run build afin de compiler,en suite lancer le serveur avec la ligne de commande ng serve (de préférence sur une ligne de comande git hash)
 * Si la commande ng n’est pas reconnu sur le terminal, ouvrez PowerShell en tant qu'administrateur et taper Set-ExecutionPolicy ExecutionPolicy Unrestricted.
-* Création d'un composant => ng g c HelloComponent
-* Création d'un service => ng g s HelloService
-* Création d'une classe => ng g class Hello
-* Créer un projet Spring Boot , soit en utilisant l’application Spring boot suite ou bien vs code en téléchargeant Spring boot tools.
-* Lancer le projet Spring Boot avec le bouton run sous vs code 
-* Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API
+* Clonner le projet spring boot sur votre IDE en assurant que votre IDE a bien un compiler java.
+* Lancer le projet Spring Boot avec le bouton run sous votre IDE ( pour notre cas on a uilisé vs code)
+* Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API.
+
 
 ## Fabriqué avec
 
