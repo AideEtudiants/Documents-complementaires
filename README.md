@@ -45,6 +45,10 @@ Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux
 * HTML, CSS 
 
 ## Versions
+Angular CLI: 12.2.6
+Node: 14.17.6
+Package Manager: npm 6.14.15
+
 
 **Dernière version stable :**  0.0.1
 
