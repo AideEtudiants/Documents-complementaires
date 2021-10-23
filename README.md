@@ -20,18 +20,18 @@ Afin de bien compiler et executer notre projet, il est nécessaire d'installer u
 
 Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux adresses suivantes:
 -  https://github.com/AideEtudiants 
--  La documentation liée au projet se trouve dans le repo https://github.com/AideEtudiants/Documents-complementaires
+-  La documentation liée au projet se trouve dans le repo https://github.com/AideEtudiants/Documents-complementaires.
 -  Vous y trouverez le Scrum board ainsi que l'architecture de l'application.
--  Le front end se trouve dans le repo https://github.com/AideEtudiants/ProjetAngular et vous y trouverez tous les fichiers necessaires pour lancer le projet Angular
--  Le back end se trouve dans le repo https://github.com/AideEtudiants/ProjetSpringBoot et contient les fichiers necessaires pour lancer le projet springboot
+-  Le front end se trouve dans le repo https://github.com/AideEtudiants/ProjetAngular et vous y trouverez tous les fichiers necessaires pour lancer le projet Angular.
+-  Le back end se trouve dans le repo https://github.com/AideEtudiants/ProjetSpringBoot et contient les fichiers necessaires pour lancer le projet springboot.
 - Il faut télécharger ensuite l'ensemble des fichiers contenus dans le front et ceux du back et les ouvrir dans l'IDE dans des fenetres differentes, de ce fait vous avez deux fenêtres ouvertes dans votre IDE contenant respectivement le front et le back.
 
 ## Démarrage
-* API entre Spring Boot et Angular
-* Lorsque vous clonner le projet , Tappez un npm install afin d'installer les dépendances necessaires de Angular et par la suite npm run build afin de compiler, ensuite lancer le serveur avec la ligne de commande ng serve (de préférence sur une ligne de comande git hash)
+* API entre Spring Boot et Angular.
+* Lorsque vous clonner le projet , Tappez un npm install afin d'installer les dépendances necessaires de Angular et par la suite npm run build afin de compiler, ensuite lancer le serveur avec la ligne de commande ng serve (de préférence sur une ligne de comande git hash).
 * Si la commande ng n’est pas reconnue sur le terminal, ouvrez PowerShell en tant qu'administrateur et taper Set-ExecutionPolicy ExecutionPolicy Unrestricted.
 * Clonner le projet spring boot sur votre IDE en s'assurant que votre IDE a bien un compiler Java.
-* Lancer le projet Spring Boot avec le bouton run sous votre IDE (pour notre cas on uilise VSCode)
+* Lancer le projet Spring Boot avec le bouton run sous votre IDE (pour notre cas on uilise VSCode).
 * Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API.
 
 
