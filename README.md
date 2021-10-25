@@ -1,4 +1,4 @@
-# Projet collaboratif devops sur une application web d'aide aux Étudiants : Studenity
+# Projet collaboratif DEVOPS sur une application web d'aide aux Étudiants : Studenity
 
 La crise liée au Covid19 a eu pour conséquence un manque d’emploi important qui a engendré une précarité financière pour certains jeunes étudiants.
 Ces jeunes ont également été confrontés à un manque de lien sociaux du fait d’avoir cours à distance.
