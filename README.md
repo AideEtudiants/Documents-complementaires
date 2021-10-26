@@ -37,19 +37,20 @@ Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux
 
 ## Fabriqué avec
 
-* Framework Spring Boot
+* HTML, CSS
+* Java 
 * Framework Angular
+* Framework Spring Boot
 * Éditeur VScode
-* Java
-* HTML, CSS 
+
 
 ## Versions
+Java : 11.0.0
 Angular CLI: 12.2.6
+Spring Boot : 1.28.0
 Node: 14.17.6
 Package Manager: npm 6.14.15
-Java : 11.0.0
 Éditeur VScode : 1.60.2
-Spring Boot : 1.28.0
 
 **Dernière version stable :**  0.0.1
 
