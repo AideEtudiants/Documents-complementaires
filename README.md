@@ -56,8 +56,8 @@ Package Manager: npm 6.14.15
 
 ## Auteurs
 
-* Akkoura Aniesse
-* Barry Aissatou
-* Kende Emmanuela
-* Le Phong-Sac
-* Smahi Lydia 
+* Akkoura Aniesse : https://github.com/AKKOURA
+* Barry Aissatou : https://github.com/aissatoubarryfab
+* Kende Emmanuela : https://github.com/Emmanuelakende
+* Le Phong-Sac : https://github.com/LEphongsac
+* Smahi Lydia : https://github.com/LydiaSM
