@@ -35,7 +35,8 @@ Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux
 * Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API.
 
 ##  Angular Material 
-* Afin de compiler le projet Angular sans erreur , il faudra ajouter les materiaux de design angular avec cette commande : ng add @angular/material
+* Afin de compiler le projet Angular sans erreur , il faudra ajouter les materiaux de design angular avec cette commande :
+*  ng add @angular/material
 
 
 ## Fabriqué avec
