@@ -49,6 +49,7 @@ Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux
 * Framework Angular
 * Framework Spring Boot
 * Éditeur VScode
+* Éditeur IntelliJ
 
 
 ## Versions
