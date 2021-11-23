@@ -35,9 +35,9 @@ Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux
 * Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API.
 
 ##  Angular Material 
-* Afin de compiler le projet Angular sans erreur , il faudra ajouter les materiaux de design angular avec cette commande :
+* Afin de compiler le projet Angular sans erreur, il faudra ajouter les materiaux de design angular avec cette commande:
   ng add @angular/material
-* pour ajouter la bibiotheque qui gere les teast en Angular , il faudra ajouter les services nécessairees avec les commandes suivantes :
+* Pour ajouter la bibiothèque qui gère les teast en Angular, il faudra ajouter les services nécessaires avec les commandes suivantes:
   npm install ngx-toastr --save
   npm install @angular/animations --save
 
