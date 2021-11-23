@@ -28,18 +28,18 @@ Pour clonner notre projet au niveau local, vous trouverez les url sur gitHub aux
 
 ## Démarrage
 * API entre Spring Boot et Angular.
-* Lorsque vous clonner le projet , Tapper `npm install` afin d'installer les dépendances nécessaires de Angular et par la suite "npm run build" afin de compiler, ensuite lancer le serveur avec la ligne de commande "ng serve" (de préférence sur une ligne de comande git hash).
-* Si la commande ng n’est pas reconnue sur le terminal, ouvrez PowerShell en tant qu'administrateur et taper "Set-ExecutionPolicy ExecutionPolicy Unrestricted".
+* Lorsque vous clonnez le projet , tapez `npm install` afin d'installer les dépendances nécessaires de Angular et par la suite `npm run build` afin de compiler, ensuite lancer le serveur avec la ligne de commande `ng serve` (de préférence sur une ligne de comande git hash).
+* Si la commande ng n’est pas reconnue sur le terminal, ouvrez PowerShell en tant qu'administrateur et tapez `Set-ExecutionPolicy ExecutionPolicy Unrestricted`.
 * Clonner le projet spring boot sur votre IDE en s'assurant que votre IDE a bien un compiler Java.
 * Lancer le projet Spring Boot avec le bouton run sur votre IDE.
 * Ensuite entrer cette url http://localhost:4200 afin d'afficher le résultat de l'API.
 
 ##  Angular Material 
 * Afin de compiler le projet Angular sans erreur, il faudra ajouter les materiaux de design angular avec cette commande:
-  ng add @angular/material
+  `ng add @angular/material`
 * Pour ajouter la bibiothèque qui gère les teast en Angular, il faudra ajouter les services nécessaires avec les commandes suivantes:
-  npm install ngx-toastr --save
-  npm install @angular/animations --save
+  `npm install ngx-toastr --save`
+  `npm install @angular/animations --save`
 
 
 ## Fabriqué avec
