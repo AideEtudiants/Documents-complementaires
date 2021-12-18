@@ -60,7 +60,7 @@ Node: 14.17.6
 Package Manager: npm 6.14.15
 Éditeur VScode : 1.60.2
 
-**Dernière version stable :**  0.0.3
+**Dernière version stable :**  0.5
 
 ## Auteurs
 
